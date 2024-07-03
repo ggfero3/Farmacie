@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Ricerca per Comune";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="SearchByComune" method="post">
+    <div class="form-group">
+        <label for="comune">Comune:</label>
+        <input type="text" class="form-control" id="comune" name="comune" />
+    </div>
+    <button type="submit" class="btn btn-primary">Cerca</button>
+</form>

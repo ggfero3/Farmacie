@@ -1,0 +1,143 @@
+﻿@model IEnumerable<Farmacie.Models.Farmacia>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Codiceidentificativofarmacia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Codfarmaciaassegnatodaasl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Indirizzo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descrizionefarmacia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Partitaiva)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cap)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Datainiziovalidita)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Datafinevalidita)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descrizionetipologia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Codicetipologia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Latitudine)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Longitudine)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Localize)
+            </th>
+            <th>
+                Comune
+            </th>
+            <th>
+                Frazione
+            </th>
+            <th>
+                Provincia
+            </th>
+            <th>
+                Sigla Provincia
+            </th>
+            <th>
+                Regione
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Codiceidentificativofarmacia)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Codfarmaciaassegnatodaasl)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Indirizzo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descrizionefarmacia)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Partitaiva)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cap)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Datainiziovalidita)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Datafinevalidita)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descrizionetipologia)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Codicetipologia)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Latitudine)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Longitudine)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Localize)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdComuneNavigation.Denominazione)
+                </td>
+                <td>
+                    @foreach (var frazione in item.IdComuneNavigation.Fraziones)
+                    {
+                        @frazione.Denominazione
+
+                        <br />
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdComuneNavigation.IdProvinciaNavigation.Denominazione)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdComuneNavigation.IdProvinciaNavigation.Sigla)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdComuneNavigation.IdProvinciaNavigation.IdRegioneNavigation.Denominazione)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,97 @@
+﻿@model Farmacie.Models.Farmacia
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Farmacia</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Codiceidentificativofarmacia" class="control-label"></label>
+                <input asp-for="Codiceidentificativofarmacia" class="form-control" />
+                <span asp-validation-for="Codiceidentificativofarmacia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Codfarmaciaassegnatodaasl" class="control-label"></label>
+                <input asp-for="Codfarmaciaassegnatodaasl" class="form-control" />
+                <span asp-validation-for="Codfarmaciaassegnatodaasl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Indirizzo" class="control-label"></label>
+                <input asp-for="Indirizzo" class="form-control" />
+                <span asp-validation-for="Indirizzo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Descrizionefarmacia" class="control-label"></label>
+                <input asp-for="Descrizionefarmacia" class="form-control" />
+                <span asp-validation-for="Descrizionefarmacia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Partitaiva" class="control-label"></label>
+                <input asp-for="Partitaiva" class="form-control" />
+                <span asp-validation-for="Partitaiva" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cap" class="control-label"></label>
+                <input asp-for="Cap" class="form-control" />
+                <span asp-validation-for="Cap" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdComune" class="control-label"></label>
+                <select asp-for="IdComune" class ="form-control" asp-items="ViewBag.IdComune"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Datainiziovalidita" class="control-label"></label>
+                <input asp-for="Datainiziovalidita" class="form-control" />
+                <span asp-validation-for="Datainiziovalidita" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Datafinevalidita" class="control-label"></label>
+                <input asp-for="Datafinevalidita" class="form-control" />
+                <span asp-validation-for="Datafinevalidita" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Descrizionetipologia" class="control-label"></label>
+                <input asp-for="Descrizionetipologia" class="form-control" />
+                <span asp-validation-for="Descrizionetipologia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Codicetipologia" class="control-label"></label>
+                <input asp-for="Codicetipologia" class="form-control" />
+                <span asp-validation-for="Codicetipologia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Latitudine" class="control-label"></label>
+                <input asp-for="Latitudine" class="form-control" />
+                <span asp-validation-for="Latitudine" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Longitudine" class="control-label"></label>
+                <input asp-for="Longitudine" class="form-control" />
+                <span asp-validation-for="Longitudine" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Localize" class="control-label"></label>
+                <input asp-for="Localize" class="form-control" />
+                <span asp-validation-for="Localize" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

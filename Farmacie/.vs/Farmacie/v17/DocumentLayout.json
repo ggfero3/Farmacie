@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|c:\\users\\gabriele.feroglia\\source\\repos\\farmacie\\views\\home\\farmacia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|solutionrelative:views\\home\\farmacia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|c:\\users\\gabriele.feroglia\\source\\repos\\farmacie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|c:\\users\\gabriele.feroglia\\source\\repos\\farmacie\\views\\farmacie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|solutionrelative:views\\farmacie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|c:\\users\\gabriele.feroglia\\source\\repos\\farmacie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|c:\\users\\gabriele.feroglia\\source\\repos\\farmacie\\views\\farmacie\\searchbyregione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|solutionrelative:views\\farmacie\\searchbyregione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|c:\\users\\gabriele.feroglia\\source\\repos\\farmacie\\views\\farmacie\\searchbyprovincia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|solutionrelative:views\\farmacie\\searchbyprovincia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|c:\\users\\gabriele.feroglia\\source\\repos\\farmacie\\views\\farmacie\\searchbydenominazione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|solutionrelative:views\\farmacie\\searchbydenominazione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|c:\\users\\gabriele.feroglia\\source\\repos\\farmacie\\views\\farmacie\\searchbycomune.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|solutionrelative:views\\farmacie\\searchbycomune.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|c:\\users\\gabriele.feroglia\\source\\repos\\farmacie\\controllers\\farmaciecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|solutionrelative:controllers\\farmaciecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|c:\\users\\gabriele.feroglia\\source\\repos\\farmacie\\models\\farmaciacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|solutionrelative:models\\farmaciacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|c:\\users\\gabriele.feroglia\\source\\repos\\farmacie\\models\\farmacia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|solutionrelative:models\\farmacia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|c:\\users\\gabriele.feroglia\\source\\repos\\farmacie\\models\\frazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|solutionrelative:models\\frazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|c:\\users\\gabriele.feroglia\\source\\repos\\farmacie\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|c:\\users\\gabriele.feroglia\\source\\repos\\farmacie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|c:\\users\\gabriele.feroglia\\source\\repos\\farmacie\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CC541E-B2DB-46AA-89A7-AFAD0C789C8A}|Farmacie.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Farmacia.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Home\\Farmacia.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Farmacia.cshtml",
+              "ToolTip": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Home\\Farmacia.cshtml",
+              "RelativeToolTip": "Views\\Home\\Farmacia.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T09:14:19.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchByDenominazione.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Farmacie\\SearchByDenominazione.cshtml",
+              "RelativeDocumentMoniker": "Views\\Farmacie\\SearchByDenominazione.cshtml",
+              "ToolTip": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Farmacie\\SearchByDenominazione.cshtml",
+              "RelativeToolTip": "Views\\Farmacie\\SearchByDenominazione.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T09:14:41.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FarmacieController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Controllers\\FarmacieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FarmacieController.cs",
+              "ToolTip": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Controllers\\FarmacieController.cs",
+              "RelativeToolTip": "Controllers\\FarmacieController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:29:55.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FarmaciaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Models\\FarmaciaContext.cs",
+              "RelativeDocumentMoniker": "Models\\FarmaciaContext.cs",
+              "ToolTip": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Models\\FarmaciaContext.cs",
+              "RelativeToolTip": "Models\\FarmaciaContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAxwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:45:03.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchByProvincia.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Farmacie\\SearchByProvincia.cshtml",
+              "RelativeDocumentMoniker": "Views\\Farmacie\\SearchByProvincia.cshtml",
+              "ToolTip": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Farmacie\\SearchByProvincia.cshtml",
+              "RelativeToolTip": "Views\\Farmacie\\SearchByProvincia.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T09:14:42.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchByRegione.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Farmacie\\SearchByRegione.cshtml",
+              "RelativeDocumentMoniker": "Views\\Farmacie\\SearchByRegione.cshtml",
+              "ToolTip": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Farmacie\\SearchByRegione.cshtml",
+              "RelativeToolTip": "Views\\Farmacie\\SearchByRegione.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T09:14:43.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchByComune.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Farmacie\\SearchByComune.cshtml",
+              "RelativeDocumentMoniker": "Views\\Farmacie\\SearchByComune.cshtml",
+              "ToolTip": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Farmacie\\SearchByComune.cshtml",
+              "RelativeToolTip": "Views\\Farmacie\\SearchByComune.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T18:26:45.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T18:19:16.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Farmacie\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Farmacie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Farmacie\\Index.cshtml",
+              "RelativeToolTip": "Views\\Farmacie\\Index.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAIUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T17:29:36.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwBAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:29:31.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Farmacia.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Models\\Farmacia.cs",
+              "RelativeDocumentMoniker": "Models\\Farmacia.cs",
+              "ToolTip": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Models\\Farmacia.cs",
+              "RelativeToolTip": "Models\\Farmacia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:26:56.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Frazione.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Models\\Frazione.cs",
+              "RelativeDocumentMoniker": "Models\\Frazione.cs",
+              "ToolTip": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Models\\Frazione.cs",
+              "RelativeToolTip": "Models\\Frazione.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:47:26.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:30:02.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T18:46:00.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Gabriele.Feroglia\\source\\repos\\Farmacie\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T18:19:10.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
